@@ -1,5 +1,5 @@
 
-# PENDA P01 Flasher / Loader
+# PENDA Flasher / Loader
 
 ![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-STM32-green.svg)
